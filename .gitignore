@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+instance/
+.pytest_cache/
+*.sqlite
+.DS_Store
+*.log
+local_db_dump.json
+smart-student-expense-tracker.zip
